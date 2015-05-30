@@ -1,0 +1,578 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="效益评价产量-2月.files/filelist.xml">
+<link rel=Edit-Time-Data href="效益评价产量-2月.files/editdata.mso">
+<link rel=OLE-Object-Data href="效益评价产量-2月.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>李伟</o:LastAuthor>
+  <o:LastSaved>2015-03-20T09:12:25Z</o:LastSaved>
+  <o:Version>11.6568</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+.font6
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.xl25
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:left;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:white;
+	mso-pattern:auto none;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:left;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl30
+	{mso-style-parent:style0;
+	color:red;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl31
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl32
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl33
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl34
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl35
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl36
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl37
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl38
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl39
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl40
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl41
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:left;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	background:white;
+	mso-pattern:auto none;}
+.xl42
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:left;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	background:white;
+	mso-pattern:auto none;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>效益评价产量-2月</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>11</x:ActiveRow>
+       <x:ActiveCol>3</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>13140</x:WindowHeight>
+  <x:WindowWidth>24435</x:WindowWidth>
+  <x:WindowTopX>480</x:WindowTopX>
+  <x:WindowTopY>300</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=550 style='border-collapse:
+ collapse;table-layout:fixed;width:415pt'>
+ <col width=54 style='mso-width-source:userset;mso-width-alt:1728;width:41pt'>
+ <col width=72 span=2 style='width:54pt'>
+ <col width=54 style='mso-width-source:userset;mso-width-alt:1728;width:41pt'>
+ <col width=61 style='mso-width-source:userset;mso-width-alt:1952;width:46pt'>
+ <col width=54 style='mso-width-source:userset;mso-width-alt:1728;width:41pt'>
+ <col width=61 style='mso-width-source:userset;mso-width-alt:1952;width:46pt'>
+ <col width=54 style='mso-width-source:userset;mso-width-alt:1728;width:41pt'>
+ <col width=68 style='mso-width-source:userset;mso-width-alt:2176;width:51pt'>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl24 colspan=6 width=367 style='height:14.25pt;
+  mso-ignore:colspan;width:277pt'>&nbsp;&nbsp;单位代码:马仙采油厂&nbsp;&nbsp;起始年月:201502&nbsp;&nbsp;结束年月:201502</td>
+  <td width=61 style='width:46pt'></td>
+  <td width=54 style='width:41pt'></td>
+  <td width=68 style='width:51pt'></td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=9 height=20 class=xl32 width=550 style='border-right:.5pt solid black;
+  height:15.0pt;width:415pt'></colgroup>开发综合动态数据表(三)</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td rowspan=4 height=77 class=xl36 width=54 style='border-bottom:.5pt solid black;
+  height:57.75pt;border-top:none;width:41pt'>年月</td>
+  <td rowspan=4 class=xl39 width=72 style='border-bottom:.5pt solid black;
+  border-top:none;width:54pt'>油田名称</td>
+  <td rowspan=4 class=xl39 width=72 style='border-bottom:.5pt solid black;
+  border-top:none;width:54pt'>开发单元</td>
+  <td colspan=2 class=xl32 width=115 style='border-right:.5pt solid black;
+  border-left:none;width:87pt'>核实产油</td>
+  <td colspan=2 class=xl32 width=115 style='border-right:.5pt solid black;
+  border-left:none;width:87pt'>核实产水</td>
+  <td colspan=2 class=xl32 width=122 style='border-right:.5pt solid black;
+  border-left:none;width:92pt'>核实产液</td>
+ </tr>
+ <tr height=19 style='mso-height-source:userset;height:14.25pt'>
+  <td height=19 class=xl25 width=54 style='height:14.25pt;width:41pt'>月</td>
+  <td class=xl25 width=61 style='width:46pt'>累积</td>
+  <td class=xl25 width=54 style='width:41pt'>月</td>
+  <td class=xl25 width=61 style='width:46pt'>累积</td>
+  <td class=xl25 width=54 style='width:41pt'>月</td>
+  <td class=xl25 width=68 style='width:51pt'>累积</td>
+ </tr>
+ <tr height=19 style='mso-height-source:userset;height:14.25pt'>
+  <td height=19 class=xl26 width=54 style='height:14.25pt;width:41pt'>　</td>
+  <td class=xl26 width=61 style='width:46pt'>　</td>
+  <td class=xl26 width=54 style='width:41pt'>　</td>
+  <td class=xl26 width=61 style='width:46pt'>　</td>
+  <td class=xl26 width=54 style='width:41pt'>　</td>
+  <td class=xl26 width=68 style='width:51pt'>　</td>
+ </tr>
+ <tr height=19 style='mso-height-source:userset;height:14.25pt'>
+  <td height=19 class=xl27 width=54 style='height:14.25pt;width:41pt'>(10<font
+  class="font7"><sup>4</sup></font><font class="font6">t)</font></td>
+  <td class=xl27 width=61 style='width:46pt'>(10<font class="font7"><sup>4</sup></font><font
+  class="font6">t)</font></td>
+  <td class=xl27 width=54 style='width:41pt'>(10<font class="font7"><sup>4</sup></font><font
+  class="font6">t)</font></td>
+  <td class=xl27 width=61 style='width:46pt'>(10<font class="font7"><sup>4</sup></font><font
+  class="font6">t)</font></td>
+  <td class=xl27 width=54 style='width:41pt'>(10<font class="font7"><sup>4</sup></font><font
+  class="font6">t)</font></td>
+  <td class=xl27 width=68 style='width:51pt'>(10<font class="font7"><sup>4</sup></font><font
+  class="font6">t)</font></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td rowspan=2 class=xl42 style='border-bottom:.5pt solid black;border-top:
+  none'>马仙采油厂</td>
+  <td class=xl29>红山</td>
+  <td class=xl30>　</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31>　</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31 x:num>0</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td class=xl29>九龙山</td>
+  <td class=xl30 x:num="2.9999999999999997E-4">0.0003</td>
+  <td class=xl31 x:num="2.9499999999999998E-2">0.0295</td>
+  <td class=xl31 x:num="2.9999999999999997E-4">0.0003</td>
+  <td class=xl31 x:num="4.5999999999999999E-3">0.0046</td>
+  <td class=xl31 x:num="5.9999999999999995E-4">0.0006</td>
+  <td class=xl31 x:num="3.4099999999999998E-2">0.0341</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td rowspan=2 class=xl42 style='border-bottom:.5pt solid black;border-top:
+  none'>马北油田</td>
+  <td class=xl29>马北8区块</td>
+  <td class=xl30 x:num="9.7000000000000003E-2">0.097</td>
+  <td class=xl31 x:num="2.7206000000000001">2.7206</td>
+  <td class=xl31 x:num="8.9499999999999996E-2">0.0895</td>
+  <td class=xl31 x:num="2.0076000000000001">2.0076</td>
+  <td class=xl31 x:num="0.1865">0.1865</td>
+  <td class=xl31 x:num="4.7282000000000002">4.7282</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td class=xl29>马北一号</td>
+  <td class=xl30>　</td>
+  <td class=xl31 x:num="14.380599999999999">14.3806</td>
+  <td class=xl31>　</td>
+  <td class=xl31 x:num="11.7433">11.7433</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31 x:num="26.123899999999999">26.1239</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td rowspan=4 class=xl42 style='border-bottom:.5pt solid black;border-top:
+  none'>马仙采油厂</td>
+  <td class=xl29>马西</td>
+  <td class=xl30>　</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31>　</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31 x:num>0</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td class=xl29>鱼卡</td>
+  <td class=xl30 x:num="5.9999999999999995E-4">0.0006</td>
+  <td class=xl31 x:num="8.9499999999999996E-2">0.0895</td>
+  <td class=xl31 x:num>0</td>
+  <td class=xl31 x:num="2.7000000000000001E-3">0.0027</td>
+  <td class=xl31 x:num="5.9999999999999995E-4">0.0006</td>
+  <td class=xl31 x:num="9.2200000000000004E-2">0.0922</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td class=xl29>南八仙油层</td>
+  <td class=xl30 x:num="0.2296">0.2296</td>
+  <td class=xl31 x:num="49.883400000000002">49.8834</td>
+  <td class=xl31 x:num="0.13339999999999999">0.1334</td>
+  <td class=xl31 x:num="30.4207">30.4207</td>
+  <td class=xl31 x:num="0.36299999999999999">0.363</td>
+  <td class=xl31 x:num="80.304100000000005">80.3041</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'
+  onfocusin="javascript:this.bgColor ='#99CCFF';"
+  onfocusout="javascript:this.bgColor ='#ffffff';">
+  <td height=19 class=xl28 style='height:14.25pt'>201502</td>
+  <td class=xl29>合计</td>
+  <td class=xl30 x:num="0.32750000000000001">0.3275</td>
+  <td class=xl31 x:num="67.1036">67.1036</td>
+  <td class=xl31 x:num="0.22320000000000001">0.2232</td>
+  <td class=xl31 x:num="44.178899999999999">44.1789</td>
+  <td class=xl31 x:num="0.55069999999999997">0.5507</td>
+  <td class=xl31 x:num="111.2825">111.2825</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=54 style='width:41pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=54 style='width:41pt'></td>
+  <td width=61 style='width:46pt'></td>
+  <td width=54 style='width:41pt'></td>
+  <td width=61 style='width:46pt'></td>
+  <td width=54 style='width:41pt'></td>
+  <td width=68 style='width:51pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

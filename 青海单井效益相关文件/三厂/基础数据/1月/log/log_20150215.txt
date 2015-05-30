@@ -1,0 +1,22 @@
+
+时间: 2015年02月15日 17时31分58秒15	级别: 4-SQL错误	来源: d_list_djsj
+错误对象为：d_list_djsj
+错误代码为：1
+错误原因为：ORA-00001: unique constraint (QHCY3.PRI_DJSJ_ID) violated
+
+
+No changes made to database.
+
+INSERT INTO "DJSJ" ( "NY", "JH", "ZYQ", "QK", "ZXZ", "ZRZ", "CYJXH", "CYJMPGL", "DJGL", "FZL", "YQLX", "XSYP", "TCRQ", "JB", "DJDB", "SSYT", "PJDY", "YCLX", "DJ_ID" ) VALUES ( :1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, :15, :16, :17, :18, :19 )
+数据行: 1
+
+时间: 2015年02月15日 17时36分37秒15	级别: 4-SQL错误	来源: d_list_pjdysj
+错误对象为：d_list_pjdysj
+错误代码为：1400
+错误原因为：ORA-01400: cannot insert NULL into ("QHCY3"."PJDYSJ"."NY")
+
+
+No changes made to database.
+
+INSERT INTO "PJDYSJ" ( "PJDYMC", "NY", "DYHYMJ", "DYDZCL", "DYKCCL", "YCZS", "PJSTL", "DXYYND", "YJZJS", "SJZJS", "SJKJS", "ZSJ", "LJZSL", "ZQJZJS", "ZQJKJZ", "ZQL", "LJZQL", "CYOUL", "LJCYOUL", "CYL", "LJCYL", "CQL", "LJCQL", "YCLX", "XSYP", "YJKJS", "DJPJRCY", "NJZHHS", "PJTTZQ", "JDYQB", "KCCLCCCD", "SYKCCL", "DJKZSYKCCL", "JWMD", "SFPJ" ) VALUES ( :1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, :15, :16, :17, :18, :19, :20, :21, :22, :23, :24, :25, :26, :27, :28, :29, :30, :31, :32, :33, :34, :35 )
+数据行: 6

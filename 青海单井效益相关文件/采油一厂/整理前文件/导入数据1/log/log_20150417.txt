@@ -1,0 +1,40 @@
+
+时间: 2015年04月17日 09时16分30秒17	级别: 4-SQL错误	来源: d_list_pjdysj
+错误对象为：d_list_pjdysj
+错误代码为：1
+错误原因为：ORA-00001: 违反唯一约束条件 (QHCY1.PK_PJDYSJ)
+
+
+No changes made to database.
+
+INSERT INTO "PJDYSJ" ( "PJDYMC", "NY", "DYHYMJ", "DYDZCL", "DYKCCL", "YCZS", "PJSTL", "DXYYND", "YJZJS", "SJZJS", "SJKJS", "ZSJ", "LJZSL", "ZQJZJS", "ZQJKJZ", "ZQL", "LJZQL", "CYOUL", "LJCYOUL", "CYL", "LJCYL", "CQL", "LJCQL", "YCLX", "XSYP", "YJKJS", "DJPJRCY", "NJZHHS", "PJTTZQ", "JDYQB", "KCCLCCCD", "SYKCCL", "DJKZSYKCCL", "JWMD", "SFPJ" ) VALUES ( :1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, :15, :16, :17, :18, :19, :20, :21, :22, :23, :24, :25, :26, :27, :28, :29, :30, :31, :32, :33, :34, :35 )
+数据行: 12
+
+时间: 2015年04月17日 09时16分53秒17	级别: 4-SQL错误	来源: d_list_pjdysj
+错误对象为：d_list_pjdysj
+错误代码为：1
+错误原因为：ORA-00001: 违反唯一约束条件 (QHCY1.PK_PJDYSJ)
+
+
+No changes made to database.
+
+INSERT INTO "PJDYSJ" ( "PJDYMC", "NY", "DYHYMJ", "DYDZCL", "DYKCCL", "YCZS", "PJSTL", "DXYYND", "YJZJS", "SJZJS", "SJKJS", "ZSJ", "LJZSL", "ZQJZJS", "ZQJKJZ", "ZQL", "LJZQL", "CYOUL", "LJCYOUL", "CYL", "LJCYL", "CQL", "LJCQL", "YCLX", "XSYP", "YJKJS", "DJPJRCY", "NJZHHS", "PJTTZQ", "JDYQB", "KCCLCCCD", "SYKCCL", "DJKZSYKCCL", "JWMD", "SFPJ" ) VALUES ( :1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, :15, :16, :17, :18, :19, :20, :21, :22, :23, :24, :25, :26, :27, :28, :29, :30, :31, :32, :33, :34, :35 )
+数据行: 12
+
+时间: 2015年04月17日 09时17分22秒17	级别: 2-运行错误	来源: n_cst_dwsrv_sort
+发生错误的窗口或菜单为：n_cst_dwsrv_sort
+发生错误的对象为：n_cst_dwsrv_sort
+发生错误的事件为：of_setsort
+发生错误的行数为：第77行
+错误信息为：Null object reference at line 77 in function of_setsort of object n_cst_dwsrv_sort.
+
+时间: 2015年04月17日 09时17分51秒17	级别: 4-SQL错误	来源: d_list_pjdysj
+错误对象为：d_list_pjdysj
+错误代码为：1
+错误原因为：ORA-00001: 违反唯一约束条件 (QHCY1.PK_PJDYSJ)
+
+
+No changes made to database.
+
+INSERT INTO "PJDYSJ" ( "PJDYMC", "NY", "DYHYMJ", "DYDZCL", "DYKCCL", "YCZS", "PJSTL", "DXYYND", "YJZJS", "SJZJS", "SJKJS", "ZSJ", "LJZSL", "ZQJZJS", "ZQJKJZ", "ZQL", "LJZQL", "CYOUL", "LJCYOUL", "CYL", "LJCYL", "CQL", "LJCQL", "YCLX", "XSYP", "YJKJS", "DJPJRCY", "NJZHHS", "PJTTZQ", "JDYQB", "KCCLCCCD", "SYKCCL", "DJKZSYKCCL", "JWMD", "SFPJ" ) VALUES ( :1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, :15, :16, :17, :18, :19, :20, :21, :22, :23, :24, :25, :26, :27, :28, :29, :30, :31, :32, :33, :34, :35 )
+数据行: 12
