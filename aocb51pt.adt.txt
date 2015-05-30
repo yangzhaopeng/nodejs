@@ -1,0 +1,11 @@
+﻿测试文件，是否可以用
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   "\351\235\222\346\265\267\345\215\225\344\272\225\346\225\210\347\233\212\347\233\270\345\205\263\346\226\207\344\273\266/\344\270\211\345\216\202/\344\272\214\346\234\210\346\225\260\346\215\256/3\344\275\234\344\270\232\345\214\272\350\264\271\347\224\250.xls"
+#
+# Untracked files:
+#	yirvkrgw.gya.txt
+#
+
