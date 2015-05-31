@@ -4,6 +4,13 @@ select * from qjktfy_info where cyc_id='qhydxmb' order by ny desc;
 select * from dtb_info where cyc_id='qhydxmb' order by ny desc;
 select * from yqspl_info where cyc_id='qhydxmb' order by ny desc;
 select * from xscs_info where cyc_id='qhydxmb' order by ny desc;
+
+select * from rbmhl_info where cyc_id='qhmxq' order by ny desc;
+select * from qjktfy_info where cyc_id='qhmxq' order by ny desc;
+select * from dtb_info where cyc_id='qhmxq' order by ny desc;
+select * from yqspl_info where cyc_id='qhmxq' order by ny desc;
+select * from xscs_info where cyc_id='qhmxq' order by ny desc;
+
 --==============¸÷³§ »ãÂÊ
 select * from rbmhl_info where cyc_id='qhcy1' order by ny desc;
 select * from rbmhl_info where cyc_id='qhcy2' order by ny desc;

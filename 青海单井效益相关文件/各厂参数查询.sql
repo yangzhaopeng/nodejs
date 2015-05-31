@@ -1,15 +1,21 @@
-
+--青海英东
 select * from rbmhl_info where cyc_id='qhydxmb' order by ny desc;
 select * from qjktfy_info where cyc_id='qhydxmb' order by ny desc;
 select * from dtb_info where cyc_id='qhydxmb' order by ny desc;
 select * from yqspl_info where cyc_id='qhydxmb' order by ny desc;
 select * from xscs_info where cyc_id='qhydxmb' order by ny desc;
-
+--青海马仙气
 select * from rbmhl_info where cyc_id='qhmxq' order by ny desc;
 select * from qjktfy_info where cyc_id='qhmxq' order by ny desc;
 select * from dtb_info where cyc_id='qhmxq' order by ny desc;
 select * from yqspl_info where cyc_id='qhmxq' order by ny desc;
 select * from xscs_info where cyc_id='qhmxq' order by ny desc;
+---青海天然气
+select * from rbmhl_info where cyc_id='qhtrq' order by ny desc;
+select * from qjktfy_info where cyc_id='qhtrq' order by ny desc;
+select * from dtb_info where cyc_id='qhtrq' order by ny desc;
+select * from yqspl_info where cyc_id='qhtrq' order by ny desc;
+select * from xscs_info where cyc_id='qhtrq' order by ny desc;
 
 --==============各厂 汇率
 select * from rbmhl_info where cyc_id='qhcy1' order by ny desc;
